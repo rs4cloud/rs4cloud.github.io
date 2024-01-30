@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rs4cloud.github.io/al-folio/sitemap.xml
+Sitemap: https://rs4cloud.github.io/sitemap.xml
